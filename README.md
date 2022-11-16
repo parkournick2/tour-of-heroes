@@ -1,5 +1,7 @@
 # TourOfHeroes
 
+[![DeepScan grade](https://deepscan.io/api/teams/19582/projects/23036/branches/687616/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=19582&pid=23036&bid=687616)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
 
 ## Development server
